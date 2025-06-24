@@ -39,4 +39,7 @@ Ensure that the file named **`Balaji Fast Food Sales.csv`** is placed in the sam
 Make sure you have the required Python packages:
 
 ### output
-https://github.com/DhanushJami/task1/issues/2#issue-3172100690
+
+![Image](https://github.com/user-attachments/assets/0de56756-0bd9-4d05-8fa5-36f8ade5749f)
+
+![Image](https://github.com/user-attachments/assets/c979d58e-97aa-4a31-9d28-18c3f3054994)

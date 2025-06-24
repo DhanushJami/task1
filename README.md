@@ -40,3 +40,5 @@ Make sure you have the required Python packages:
 
 ```bash
 pip install pandas scikit-learn
+![Image](https://github.com/user-attachments/assets/0de56756-0bd9-4d05-8fa5-36f8ade5749f)
+![Image](https://github.com/user-attachments/assets/c979d58e-97aa-4a31-9d28-18c3f3054994)

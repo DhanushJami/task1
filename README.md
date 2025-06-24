@@ -1,4 +1,13 @@
 # task1
+
+## 📌 Internship Details
+
+- **Company**: CodTech IT Solutions  
+- **Name**: Jami Venkata Dhanush  
+- **Intern ID**: CT06DL1263  
+- **Domain**: Data Science  
+- **Duration**: 6 Weeks  
+- **Mentor**: Neela Santhosh 
 # ETL Pipeline: Balaji Fast Food Sales Data
 
 This project implements an automated **ETL (Extract, Transform, Load) pipeline** for processing and transforming sales data using **pandas** and **scikit-learn**. The pipeline cleans, preprocesses, and transforms raw data, then splits it into training and testing sets and saves the processed outputs as CSV files.
